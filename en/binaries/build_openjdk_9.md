@@ -33,6 +33,11 @@ $ hg clone http://hg.openjdk.java.net/jigsaw/jake/ jdk9
 $ cd jdk9
 
 $ chmod u+x get_source.sh 
+```
+
+And then continue with
+
+```
 $ ./get_source.sh 
 ```
 
